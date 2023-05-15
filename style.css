@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .convertidor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .convertidor input {
+    width: 100px;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .convertidor select {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .convertidor .flecha {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .convertidor button {
+    padding: 5px 10px;
+  }
+  
+  #resultado {
+    font-size: 18px;
+  }
+  
