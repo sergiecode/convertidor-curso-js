@@ -3,6 +3,10 @@
 
 Este es un repositorio que contiene un convertidor de medidas implementado en JavaScript. Te permite convertir valores de longitud entre diferentes unidades como centímetros (cm), metros (m) y kilómetros (km).
 
+## Link al curso completo de Javascript en Youtube:
+[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
+
+
 ## Cómo funciona
 
 El archivo principal de este proyecto es `index.html`, que contiene la interfaz de usuario implementada con HTML y CSS. El JavaScript encargado de realizar las conversiones se encuentra en el siguiente fragmento de código:
