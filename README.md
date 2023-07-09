@@ -1,10 +1,10 @@
+## Link al curso completo de Javascript en Youtube:
+[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
+
 
 # Convertidor de Medidas
 
 Este es un repositorio que contiene un convertidor de medidas implementado en JavaScript. Te permite convertir valores de longitud entre diferentes unidades como centímetros (cm), metros (m) y kilómetros (km).
-
-## Link al curso completo de Javascript en Youtube:
-[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
 
 
 ## Cómo funciona
